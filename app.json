@@ -1,0 +1,70 @@
+{
+  "expo": {
+    "name": "chalao-app",
+    "slug": "chalao-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/chalaorentals_logo.jpg",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash-screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.chalaorentlas.chalaoapp"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-secure-store"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "fonts": [
+      {
+        "asset": "assets/fonts/Poppins-Light.ttf",
+        "weight": "300"
+      },
+      {
+        "asset": "assets/fonts/Poppins-Regular.ttf",
+        "weight": "400"
+      },
+      {
+        "asset": "assets/fonts/Poppins-Medium.ttf",
+        "weight": "500"
+      },
+      {
+        "asset": "assets/fonts/Poppins-SemiBold.ttf",
+        "weight": "600"
+      },
+      {
+        "asset": "assets/fonts/Poppins-Bold.ttf",
+        "weight": "700"
+      }
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c7682ed8-1079-4e1c-8f09-96cce613b440"
+      }
+    }
+  }
+}

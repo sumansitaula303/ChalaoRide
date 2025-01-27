@@ -1,0 +1,31 @@
+chalao-app/
+│
+├── app/
+│   ├── /(root)
+    ├──     ├── _layout.tsx
+│   ├── _layout.tsx
+    ├── screens/
+│   │   ├── SplashScreen.js
+│   │   ├── LoginScreen.js
+│   │   └── SignupScreen.js
+│   ├── components/
+│   │   ├── Button.js
+│   │   └── InputField.js
+│   └── navigation/
+│       └── AppNavigator.js
+│
+├── assets/
+│   ├── splash.png
+│   └── logo.png
+│
+├── hooks/
+│
+├── node_modules/
+├── scripts/
+│
+├── .eslintrc.js
+├── app.json
+├── babel.config.js
+├── tailwind.config.js
+├── package.json
+└── README.md
