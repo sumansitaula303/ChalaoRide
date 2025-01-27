@@ -1,6 +1,6 @@
 # Welcome to your Chalao App
 # Some of the tools and techniques include:
-React Native with expo framework
+React Native with expo framework \n
 JWT authentication with expo secure store for storing token securely
 Validation using zod
 Expo router for routing and natigation
