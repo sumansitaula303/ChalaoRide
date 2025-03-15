@@ -15,4 +15,4 @@
 </li>
 </ul>
 
-<img src ="https://github.com/sumansitaula303/ChalaoRide/blob/master/constants/WhatsApp%20Image%202025-03-15%20at%2015.53.44_2dcc8d8d.jpg" height= "400" widhth= "200"/>
+<img src ="https://github.com/sumansitaula303/ChalaoRide/blob/master/constants/WhatsApp%20Image%202025-03-15%20at%2015.53.44_2dcc8d8d.jpg" height= "500" widhth= "250"/>
