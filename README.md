@@ -15,6 +15,8 @@
 </li>
 </ul>
 <h4>Home Page</h4>
-<img src ="https://github.com/sumansitaula303/ChalaoRide/blob/master/constants/WhatsApp%20Image%202025-03-15%20at%2015.53.44_2dcc8d8d.jpg" height= "500" widhth= "250"/>
+<img src ="https://github.com/sumansitaula303/ChalaoRide/blob/master/constants/WhatsApp%20Image%202025-03-15%20at%2015.53.44_2dcc8d8d.jpg" height= "500" width= "250"/>
 <h4>Booking Page</h4>
 <img src = "https://github.com/sumansitaula303/ChalaoRide/blob/master/constants/WhatsApp%20Image%202025-03-15%20at%2015.53.43_0a00c40b.jpg" height= "500" width= "250"/>
+<h4>Vendor Dashboard</h4>
+<img src ="https://github.com/sumansitaula303/ChalaoRide/blob/master/constants/WhatsApp%20Image%202025-03-15%20at%2015.53.45_b48d89cd.jpg" height= "500" width= "250"/>
