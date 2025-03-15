@@ -20,3 +20,4 @@
 <img src = "https://github.com/sumansitaula303/ChalaoRide/blob/master/constants/WhatsApp%20Image%202025-03-15%20at%2015.53.43_0a00c40b.jpg" height= "500" width= "250"/>
 <h4>Vendor Dashboard</h4>
 <img src ="https://github.com/sumansitaula303/ChalaoRide/blob/master/constants/WhatsApp%20Image%202025-03-15%20at%2015.53.45_b48d89cd.jpg" height= "500" width= "250"/>
+[![Watch the video](https://github.com/sumansitaula303/ChalaoRide/blob/master/constants/464227621_7871773882924155_8307436319079874529_n.mp4)]
